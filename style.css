@@ -1,0 +1,22 @@
+.a
+{
+    text-align: center;
+    background-color:aliceblue;
+}
+.b
+{
+    text-align: left;
+    background-color: ghostwhite;
+}
+.container {
+    
+    
+    width: 500px;
+    clear: both;
+  }
+  
+  .container input {
+      text-align:left;
+    width: 100%;
+    clear: both;
+  }
